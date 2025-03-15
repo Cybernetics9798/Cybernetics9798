@@ -1,4 +1,9 @@
 ## Hi there 👋
+🎓 I’m a 3rd year student at McMaster University, Ontario
+⚡ I’m currently studying Electrical Engineering
+🤔 I’m looking for help with vehicle self-driving
+📫 How to reach me: y9650@outlook.com
+📡 Fun fact: My radio callsign is VA3YCB
 
 <!--
 **Cybernetics9798/Cybernetics9798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
